@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reasoning/static/css/main.073c9b0a.css",
+    "main.js": "/reasoning/static/js/main.153d78c8.js",
+    "static/js/787.90db301b.chunk.js": "/reasoning/static/js/787.90db301b.chunk.js",
+    "static/media/logo.svg": "/reasoning/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reasoning/index.html",
+    "main.073c9b0a.css.map": "/reasoning/static/css/main.073c9b0a.css.map",
+    "main.153d78c8.js.map": "/reasoning/static/js/main.153d78c8.js.map",
+    "787.90db301b.chunk.js.map": "/reasoning/static/js/787.90db301b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.153d78c8.js"
+  ]
+}
